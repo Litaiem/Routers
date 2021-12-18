@@ -1,0 +1,14 @@
+.bg-home {
+  width: 100%;
+  height: 400vh;
+  position: absolute;
+  top: 3.5rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.boutn {
+  justify-content: center;
+}
